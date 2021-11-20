@@ -1,0 +1,5 @@
+C:\Users\Axel Tang\Desktop\Math Quiz-20200220T220116Z-001\Math Quiz\obj\x86\Debug\mathQuiz.Form1.resources
+C:\Users\Axel Tang\Desktop\Math Quiz-20200220T220116Z-001\Math Quiz\obj\x86\Debug\Math_Quiz.Properties.Resources.resources
+C:\Users\Axel Tang\Desktop\Math Quiz-20200220T220116Z-001\Math Quiz\obj\x86\Debug\mathQuiz.csproj.GenerateResource.Cache
+C:\Users\Axel Tang\Desktop\Math Quiz-20200220T220116Z-001\Math Quiz\obj\x86\Debug\Math Quiz.exe
+C:\Users\Axel Tang\Desktop\Math Quiz-20200220T220116Z-001\Math Quiz\obj\x86\Debug\Math_Quiz.Form1.resources

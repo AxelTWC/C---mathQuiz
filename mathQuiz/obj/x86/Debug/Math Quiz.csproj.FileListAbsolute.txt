@@ -1,0 +1,38 @@
+C:\Users\tangaxel\AppData\Local\Temporary Projects\Math Quiz\bin\Debug\Math Quiz.exe
+C:\Users\tangaxel\AppData\Local\Temporary Projects\Math Quiz\bin\Debug\Math Quiz.pdb
+C:\Users\tangaxel\AppData\Local\Temporary Projects\Math Quiz\obj\x86\Debug\Math_Quiz.Form1.resources
+C:\Users\tangaxel\AppData\Local\Temporary Projects\Math Quiz\obj\x86\Debug\Math_Quiz.Properties.Resources.resources
+C:\Users\tangaxel\AppData\Local\Temporary Projects\Math Quiz\obj\x86\Debug\Math Quiz.csproj.GenerateResource.Cache
+C:\Users\tangaxel\AppData\Local\Temporary Projects\Math Quiz\obj\x86\Debug\Math Quiz.exe
+C:\Users\tangaxel\AppData\Local\Temporary Projects\Math Quiz\obj\x86\Debug\Math Quiz.pdb
+\\server1\homedir$\tangaxel\my documents\visual studio 2010\Projects\Math Quiz\Math Quiz\obj\x86\Debug\Math Quiz.exe
+\\server1\homedir$\tangaxel\my documents\visual studio 2010\Projects\Math Quiz\Math Quiz\obj\x86\Debug\Math Quiz.pdb
+\\server1\homedir$\tangaxel\My Documents\Visual Studio 2010\Projects\Math Quiz\Math Quiz\bin\Debug\Math Quiz.exe
+\\server1\homedir$\tangaxel\My Documents\Visual Studio 2010\Projects\Math Quiz\Math Quiz\bin\Debug\Math Quiz.pdb
+\\server1\homedir$\tangaxel\My Documents\Visual Studio 2010\Projects\Math Quiz\Math Quiz\obj\x86\Debug\Math_Quiz.Form1.resources
+\\server1\homedir$\tangaxel\My Documents\Visual Studio 2010\Projects\Math Quiz\Math Quiz\obj\x86\Debug\Math_Quiz.Properties.Resources.resources
+\\server1\homedir$\tangaxel\My Documents\Visual Studio 2010\Projects\Math Quiz\Math Quiz\obj\x86\Debug\Math Quiz.csproj.GenerateResource.Cache
+C:\Users\Axel Tang\Desktop\Math Quiz-20200220T220116Z-001\Math Quiz\obj\x86\Debug\Math Quiz.exe
+C:\Users\Axel Tang\Desktop\Math Quiz-20200220T220116Z-001\Math Quiz\obj\x86\Debug\Math Quiz.pdb
+C:\Users\Axel Tang\Desktop\Math Quiz-20200220T220116Z-001\Math Quiz\bin\Debug\Math Quiz.exe
+C:\Users\Axel Tang\Desktop\Math Quiz-20200220T220116Z-001\Math Quiz\bin\Debug\Math Quiz.pdb
+C:\Users\Axel Tang\Desktop\Math Quiz-20200220T220116Z-001\Math Quiz\obj\x86\Debug\Math_Quiz.Form1.resources
+C:\Users\Axel Tang\Desktop\Math Quiz-20200220T220116Z-001\Math Quiz\obj\x86\Debug\Math_Quiz.Properties.Resources.resources
+C:\Users\Axel Tang\Desktop\Math Quiz-20200220T220116Z-001\Math Quiz\obj\x86\Debug\Math Quiz.csproj.GenerateResource.Cache
+C:\Users\Axel Tang\Desktop\Math Quiz-20200220T220116Z-001\Math Quiz\obj\x86\Debug\Math Quiz.csprojResolveAssemblyReference.cache
+C:\Users\Axel Tang\Desktop\mathQuiz\Math Quiz\obj\x86\Debug\Math Quiz.exe
+C:\Users\Axel Tang\Desktop\mathQuiz\Math Quiz\obj\x86\Debug\Math Quiz.pdb
+C:\Users\Axel Tang\Desktop\mathQuiz\Math Quiz\obj\x86\Debug\Math Quiz.csprojResolveAssemblyReference.cache
+C:\Users\Axel Tang\Desktop\mathQuiz\Math Quiz\obj\x86\Debug\Math_Quiz.Form1.resources
+C:\Users\Axel Tang\Desktop\mathQuiz\Math Quiz\obj\x86\Debug\Math_Quiz.Properties.Resources.resources
+C:\Users\Axel Tang\Desktop\mathQuiz\Math Quiz\obj\x86\Debug\Math Quiz.csproj.GenerateResource.Cache
+C:\Users\Axel Tang\Desktop\mathQuiz\Math Quiz\bin\Debug\Math Quiz.exe
+C:\Users\Axel Tang\Desktop\mathQuiz\Math Quiz\bin\Debug\Math Quiz.pdb
+C:\Users\Axel Tang\Desktop\mathQuiz\mathQuiz\obj\x86\Debug\Math Quiz.exe
+C:\Users\Axel Tang\Desktop\mathQuiz\mathQuiz\obj\x86\Debug\Math Quiz.pdb
+C:\Users\Axel Tang\Desktop\mathQuiz\mathQuiz\bin\Debug\Math Quiz.exe
+C:\Users\Axel Tang\Desktop\mathQuiz\mathQuiz\bin\Debug\Math Quiz.pdb
+C:\Users\Axel Tang\Desktop\mathQuiz\mathQuiz\obj\x86\Debug\Math Quiz.csprojResolveAssemblyReference.cache
+C:\Users\Axel Tang\Desktop\mathQuiz\mathQuiz\obj\x86\Debug\Math_Quiz.Form1.resources
+C:\Users\Axel Tang\Desktop\mathQuiz\mathQuiz\obj\x86\Debug\Math_Quiz.Properties.Resources.resources
+C:\Users\Axel Tang\Desktop\mathQuiz\mathQuiz\obj\x86\Debug\Math Quiz.csproj.GenerateResource.Cache
